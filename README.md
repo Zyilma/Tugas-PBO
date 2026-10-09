@@ -6,12 +6,9 @@ Hello and welcome! This repository hosts my Java assignments focused on masterin
 
 ## 🗂️ Repository Contents
 
-Here is an overview of how the codebase is organized across different modules:
+* **`Array and ArrayList/`** – Banking system simulation focusing on basic OOP concepts and encapsulation.
+* **`Inheritance and Polymorphism/`** – Geometry calculator demonstrating inheritance, abstraction, and polymorphism.
 
-| Folder / Module | Focus Area | Core Features |
-| :--- | :--- | :--- |
-| **`Array and ArrayList/`** | Basic OOP & Banking State Management | Account balance handling, deposit/withdrawal methods, static tracking |
-| **`Inheritance and Polymorphism/`** | Advanced OOP & Geometry Modeling | Base shape abstractions, inheritance chains, formula overriding |
 
 ---
 
